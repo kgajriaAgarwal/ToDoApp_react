@@ -1,0 +1,15 @@
+.todo{
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+}
+
+.del{
+  /* margin-left: 10px;
+  padding-left: 20px; */
+}
+
+.del:hover{
+  color: red;
+}
